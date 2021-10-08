@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "118493303415",
+    "firebase_url": "https://super-bazaar-d1dcd-default-rtdb.firebaseio.com",
+    "project_id": "super-bazaar-d1dcd",
+    "storage_bucket": "super-bazaar-d1dcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118493303415:android:ab2f75709bd8f914fbac72",
+        "android_client_info": {
+          "package_name": "com.samarthappwork.superbazaar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118493303415-l02d5a0pdllar5t1cjvc2q5rs8j0nq7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCONs5ppnFCFNjGFqpFFVgFzbxDQ0DhAQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118493303415-l02d5a0pdllar5t1cjvc2q5rs8j0nq7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
